@@ -1,0 +1,10 @@
+C:\Users\Alvercix\source\repos\Login\Login\bin\Release\Login.exe.config
+C:\Users\Alvercix\source\repos\Login\Login\bin\Release\Login.exe
+C:\Users\Alvercix\source\repos\Login\Login\bin\Release\Login.pdb
+C:\Users\Alvercix\source\repos\Login\Login\obj\Release\Login.csprojAssemblyReference.cache
+C:\Users\Alvercix\source\repos\Login\Login\obj\Release\Login.Form1.resources
+C:\Users\Alvercix\source\repos\Login\Login\obj\Release\Login.Properties.Resources.resources
+C:\Users\Alvercix\source\repos\Login\Login\obj\Release\Login.csproj.GenerateResource.cache
+C:\Users\Alvercix\source\repos\Login\Login\obj\Release\Login.csproj.CoreCompileInputs.cache
+C:\Users\Alvercix\source\repos\Login\Login\obj\Release\Login.exe
+C:\Users\Alvercix\source\repos\Login\Login\obj\Release\Login.pdb
